@@ -9,7 +9,7 @@
 
 
 ## 参考
-photoMaker: https://github.com/ZHO-ZHO-ZHO/ComfyUI-PhotoMaker-ZHO
+photoMaker: https://github.com/ZHO-ZHO-ZHO/ComfyUI-PhotoMaker-ZHO  
 Roop: https://github.com/Gourieff/comfyui-reactor-node
 
 
